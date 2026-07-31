@@ -5,8 +5,8 @@
 %global crate glib-sys
 
 Name:           rust-%{crate}
-Version:        0.9.1
-Release:        3%{?dist}
+Version:        0.22.8
+Release:        1%{?dist}
 Summary:        FFI bindings to libglib-2.0
 
 # Upstream license specification: MIT
